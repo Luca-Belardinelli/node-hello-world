@@ -8,6 +8,8 @@
 
 Esercizio
 
+
+> 1. 
 Creiamo la prima applicazione con NodeJs e inizializziamola con
 npm init
 
